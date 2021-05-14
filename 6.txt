@@ -1,5 +1,2 @@
-<<<<<<< HEAD
- Hi this is Afsar
-=======
 Hi, this is afsar
->>>>>>> dev2
+
